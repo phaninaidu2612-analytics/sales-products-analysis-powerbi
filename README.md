@@ -2,7 +2,7 @@
 
 ## Dashboard Link :
 
-https://app.powerbi.com/links/oD03EEyDEy?ctid=06cd4ed5-3b7f-47b0-8ef6-29dee1c5060b&pbi_source=linkShare
+https://app.powerbi.com/view?r=eyJrIjoiMGM1YzRkMzUtYzdkMC00MDUyLWEwNDAtMzcxMDI2MWQ5NTRhIiwidCI6IjA2Y2Q0ZWQ1LTNiN2YtNDdiMC04ZWY2LTI5ZGVlMWM1MDYwYiJ9&pageName=e80b2ad7f871bbcdc5eb
 
 ## Dashboard Preview :
 
